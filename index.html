@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rot gegen Blau: Tagesergebnisse der RTS-Simulation</title>
+<meta name="description" content="Tagesergebnisse einer dauerhaft laufenden Gefechtssimulation: Rot gegen Blau.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Saira+Stencil+One&family=Barlow+Condensed:wght@500;700&family=Barlow:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --feld: #26302a;
+    --feld-hell: #313d36;
+    --linie: #46534b;
+    --text: #e6e3d6;
+    --text-leise: #a3a99c;
+    --rot: #d2402f;
+    --blau: #3f74d6;
+    --remis: #8d907f;
+    --gelaende: #a9a27a;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--feld); color: var(--text);
+    font-family: "Barlow", system-ui, sans-serif; font-size: 16px; line-height: 1.5;
+  }
+  main { max-width: 960px; margin: 0 auto; padding: 36px 20px 56px; }
+  h1 {
+    margin: 0; font-family: "Saira Stencil One", "Barlow Condensed", Impact, sans-serif; font-weight: 400;
+    font-size: clamp(36px, 7vw, 64px); line-height: 1;
+  }
+  h1 .rot { color: var(--rot); } h1 .blau { color: var(--blau); } h1 .gegen { color: var(--text-leise); }
+  .unterzeile { margin: 10px 0 0; color: var(--text-leise); max-width: 60ch; }
+  h2 { font-family: "Barlow Condensed", sans-serif; font-weight: 700; font-size: 26px; margin: 0 0 12px; }
+  section { margin-top: 48px; }
+
+  /* Frontlinie: Gesamtbilanz als geteilter Balken */
+  .front { margin-top: 36px; }
+  .front .zahlen { display: flex; justify-content: space-between; align-items: end; font-family: "Barlow Condensed", sans-serif; }
+  .front .zahlen div { font-size: 16px; color: var(--text-leise); }
+  .front .zahlen b { display: block; font-size: clamp(44px, 9vw, 76px); line-height: 0.95; font-weight: 700; }
+  .front .zahlen .rot b { color: var(--rot); } .front .zahlen .blau b { color: var(--blau); }
+  .front .zahlen .blau { text-align: right; }
+  .balken { display: flex; height: 22px; margin-top: 10px; background: var(--feld-hell); }
+  .balken span { display: block; height: 100%; }
+  .balken .rot { background: var(--rot); } .balken .remis { background: var(--remis); } .balken .blau { background: var(--blau); }
+  .kennzahlen { display: flex; flex-wrap: wrap; gap: 8px 32px; margin: 14px 0 0; color: var(--text-leise); }
+  .kennzahlen b { color: var(--text); font-weight: 600; font-variant-numeric: tabular-nums; }
+
+  .diagramm { width: 100%; height: auto; display: block; }
+  .diagramm text { font-family: "Barlow", sans-serif; font-size: 11px; fill: var(--text-leise); }
+  .legende { display: flex; gap: 18px; font-size: 14px; color: var(--text-leise); margin-top: 8px; }
+  .legende span::before { content: ""; display: inline-block; width: 10px; height: 10px; margin-right: 6px; background: var(--f); }
+
+  .tabelle { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; }
+  th { text-align: left; font-weight: 600; font-size: 13px; color: var(--text-leise); padding: 0 10px 6px; border-bottom: 1px solid var(--linie); white-space: nowrap; }
+  td { padding: 7px 10px; border-bottom: 1px solid var(--feld-hell); white-space: nowrap; }
+  .zahl { text-align: right; }
+  td.sieger { font-weight: 600; border-left: 4px solid transparent; }
+  tr.Rot td.sieger { border-left-color: var(--rot); }
+  tr.Blau td.sieger { border-left-color: var(--blau); }
+  tr.Unentschieden td.sieger { border-left-color: var(--remis); }
+  td.tagessieger { font-weight: 600; }
+  .rot-t { color: var(--rot); } .blau-t { color: var(--blau); }
+
+  details summary { cursor: pointer; font-family: "Barlow Condensed", sans-serif; font-weight: 700; font-size: 22px; }
+  details summary:focus-visible, a:focus-visible { outline: 2px solid var(--gelaende); outline-offset: 3px; }
+  details[open] summary { margin-bottom: 12px; }
+  .leer { color: var(--text-leise); }
+  footer { margin-top: 56px; padding-top: 16px; border-top: 1px solid var(--linie); color: var(--text-leise); font-size: 14px; }
+  footer a { color: var(--text); }
+</style>
+</head>
+<body>
+<main>
+  <h1><span class="rot">Rot</span> <span class="gegen">gegen</span> <span class="blau">Blau</span></h1>
+  <p class="unterzeile">Zwei Trupps aus je zehn Soldaten, einem Späher und einem Panzer kämpfen rund um die Uhr auf einer
+    300 × 300 Pixel großen Karte. Diese Seite wird einmal täglich mit den neuen Ergebnissen aktualisiert.</p>
+
+  <div class="front" aria-label="Gesamtbilanz">
+    <div class="zahlen">
+      <div class="rot">Siege Rot<b id="siegeRot">–</b></div>
+      <div class="blau">Siege Blau<b id="siegeBlau">–</b></div>
+    </div>
+    <div class="balken" id="balken"></div>
+    <p class="kennzahlen">
+      <span><b id="runden">–</b> Runden</span>
+      <span><b id="remis">–</b> unentschieden</span>
+      <span>Ø Rundendauer <b id="dauer">–</b></span>
+    </p>
+  </div>
+
+  <section>
+    <h2>Siege pro Tag</h2>
+    <div id="diagramm"><p class="leer">Noch keine Daten.</p></div>
+    <div class="legende">
+      <span style="--f:var(--rot)">Rot</span><span style="--f:var(--blau)">Blau</span><span style="--f:var(--remis)">Unentschieden</span>
+    </div>
+  </section>
+
+  <section>
+    <h2>Tagesübersicht</h2>
+    <div class="tabelle">
+      <table>
+        <thead><tr><th>Datum</th><th class="zahl">Runden</th><th class="zahl">Rot</th><th class="zahl">Blau</th>
+          <th class="zahl">Remis</th><th class="zahl">Ø Dauer</th><th>Tagessieger</th></tr></thead>
+        <tbody id="tage"><tr><td colspan="7" class="leer">Noch keine Daten.</td></tr></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <details>
+      <summary>Die letzten 100 Runden</summary>
+      <div class="tabelle">
+        <table>
+          <thead><tr><th>Runde</th><th>Ende</th><th>Sieger</th><th class="zahl">Punkte Rot</th>
+            <th class="zahl">Punkte Blau</th><th class="zahl">Dauer</th></tr></thead>
+          <tbody id="letzte"></tbody>
+        </table>
+      </div>
+    </details>
+  </section>
+
+  <footer>
+    <span id="stand">Lade Daten …</span> ·
+    <a href="https://github.com/Codexzier/RtsSimulationRedVsBlueResults.github.io">Repository auf GitHub</a>
+  </footer>
+</main>
+
+<script>
+const $ = id => document.getElementById(id);
+const zahl = n => n.toLocaleString("de-DE");
+const dauer = s => `${Math.floor(s / 60)}:${String(Math.round(s % 60)).padStart(2, "0")}`;
+const datumKurz = iso => new Date(iso + "T12:00:00").toLocaleDateString("de-DE", { day: "2-digit", month: "2-digit" });
+const datumLang = iso => new Date(iso + "T12:00:00").toLocaleDateString("de-DE", { weekday: "short", day: "2-digit", month: "2-digit", year: "numeric" });
+
+function gesamt(g) {
+  $("siegeRot").textContent = zahl(g.rot);
+  $("siegeBlau").textContent = zahl(g.blau);
+  $("runden").textContent = zahl(g.runden);
+  $("remis").textContent = zahl(g.unentschieden);
+  $("dauer").textContent = g.runden ? dauer(g.dauer_mittel) : "–";
+  const n = g.runden || 1;
+  $("balken").innerHTML = g.runden
+    ? `<span class="rot" style="width:${g.rot / n * 100}%"></span><span class="remis" style="width:${g.unentschieden / n * 100}%"></span><span class="blau" style="width:${g.blau / n * 100}%"></span>`
+    : "";
+}
+
+function diagramm(tage) {
+  const daten = tage.slice(-30);
+  if (!daten.length) return;
+  const B = 900, H = 240, unten = 22, oben = 10, links = 34;
+  const max = Math.max(...daten.map(t => t.runden));
+  const skala = (H - unten - oben) / max;
+  const breite = (B - links) / daten.length;
+  const saeule = Math.min(28, breite * 0.7);
+  let svg = `<svg class="diagramm" viewBox="0 0 ${B} ${H}" role="img" aria-label="Siege pro Tag der letzten ${daten.length} Tage">`;
+  for (const v of [0, Math.round(max / 2), max]) {             // Hilfslinien
+    const y = H - unten - v * skala;
+    svg += `<line x1="${links}" x2="${B}" y1="${y}" y2="${y}" stroke="#46534b" stroke-width="1"/>`;
+    svg += `<text x="${links - 6}" y="${y + 4}" text-anchor="end">${v}</text>`;
+  }
+  daten.forEach((t, i) => {
+    const x = links + i * breite + (breite - saeule) / 2;
+    let y = H - unten;
+    for (const [wert, farbe] of [[t.rot, "#d2402f"], [t.unentschieden, "#8d907f"], [t.blau, "#3f74d6"]]) {
+      const h = wert * skala;
+      y -= h;
+      if (h > 0) svg += `<rect x="${x}" y="${y}" width="${saeule}" height="${h}" fill="${farbe}"><title>${datumLang(t.datum)}: Rot ${t.rot}, Blau ${t.blau}, Remis ${t.unentschieden}</title></rect>`;
+    }
+    const zeigen = daten.length <= 12 || i % Math.ceil(daten.length / 12) === 0 || i === daten.length - 1;
+    if (zeigen) svg += `<text x="${x + saeule / 2}" y="${H - 6}" text-anchor="middle">${datumKurz(t.datum)}</text>`;
+  });
+  $("diagramm").innerHTML = svg + "</svg>";
+}
+
+function tagesTabelle(tage) {
+  if (!tage.length) return;
+  $("tage").innerHTML = tage.slice().reverse().map(t => {
+    const sieger = t.rot > t.blau ? '<span class="rot-t">Rot</span>' : t.blau > t.rot ? '<span class="blau-t">Blau</span>' : "Gleichstand";
+    return `<tr><td>${datumLang(t.datum)}</td><td class="zahl">${zahl(t.runden)}</td><td class="zahl">${zahl(t.rot)}</td>
+      <td class="zahl">${zahl(t.blau)}</td><td class="zahl">${zahl(t.unentschieden)}</td><td class="zahl">${dauer(t.dauer_mittel)}</td>
+      <td class="tagessieger">${sieger}</td></tr>`;
+  }).join("");
+}
+
+function letzteRunden(liste) {
+  $("letzte").innerHTML = liste.length ? liste.map(r => `
+    <tr class="${r.sieger}"><td>${r.nr}</td>
+      <td>${new Date(r.ende).toLocaleString("de-DE", { day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit" })}</td>
+      <td class="sieger">${r.sieger}</td><td class="zahl">${r.punkte_rot}</td><td class="zahl">${r.punkte_blau}</td>
+      <td class="zahl">${dauer(r.dauer_s)}</td></tr>`).join("")
+    : `<tr><td colspan="6" class="leer">Noch keine Runden.</td></tr>`;
+}
+
+async function laden() {
+  const t = Date.now();                          // Browser-Cache umgehen
+  try {
+    const [z, l] = await Promise.all([
+      fetch(`data/zusammenfassung.json?t=${t}`).then(r => r.json()),
+      fetch(`data/letzte.json?t=${t}`).then(r => r.json()),
+    ]);
+    gesamt(z.gesamt); diagramm(z.tage); tagesTabelle(z.tage); letzteRunden(l);
+    $("stand").textContent = "Stand: " + new Date(z.aktualisiert).toLocaleString("de-DE", { dateStyle: "long", timeStyle: "short" }) + " Uhr";
+  } catch (e) {
+    $("stand").textContent = "Die Ergebnisdaten konnten nicht geladen werden. Der erste Push aus der Simulation steht vermutlich noch aus.";
+  }
+}
+laden();
+</script>
+</body>
+</html>

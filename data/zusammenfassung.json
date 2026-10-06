@@ -1,0 +1,24 @@
+{
+ "aktualisiert": "2026-10-06T21:53:58+02:00",
+ "gesamt": {
+  "runden": 81,
+  "rot": 44,
+  "blau": 37,
+  "unentschieden": 0,
+  "dauer_mittel": 101.8
+ },
+ "tage": [
+  {
+   "datum": "2026-10-06",
+   "runden": 81,
+   "rot": 44,
+   "blau": 37,
+   "unentschieden": 0,
+   "dauer_min": 44.2,
+   "dauer_max": 381.9,
+   "punkte_rot": 1686,
+   "punkte_blau": 1566,
+   "dauer_mittel": 101.8
+  }
+ ]
+}
