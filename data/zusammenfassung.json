@@ -1,11 +1,11 @@
 {
- "aktualisiert": "2026-10-14T00:05:01+02:00",
+ "aktualisiert": "2026-10-15T00:05:01+02:00",
  "gesamt": {
-  "runden": 5595,
-  "rot": 2844,
-  "blau": 2744,
-  "unentschieden": 7,
-  "dauer_mittel": 100.6
+  "runden": 6332,
+  "rot": 3216,
+  "blau": 3106,
+  "unentschieden": 10,
+  "dauer_mittel": 101.4
  },
  "tage": [
   {
@@ -106,15 +106,27 @@
   },
   {
    "datum": "2026-10-14",
-   "runden": 2,
+   "runden": 736,
+   "rot": 372,
+   "blau": 361,
+   "unentschieden": 3,
+   "dauer_min": 40.3,
+   "dauer_max": 900.0,
+   "punkte_rot": 14928,
+   "punkte_blau": 14592,
+   "dauer_mittel": 106.8
+  },
+  {
+   "datum": "2026-10-15",
+   "runden": 3,
    "rot": 1,
-   "blau": 1,
+   "blau": 2,
    "unentschieden": 0,
-   "dauer_min": 65.7,
-   "dauer_max": 69.1,
-   "punkte_rot": 41,
-   "punkte_blau": 39,
-   "dauer_mittel": 67.4
+   "dauer_min": 52.0,
+   "dauer_max": 142.7,
+   "punkte_rot": 45,
+   "punkte_blau": 68,
+   "dauer_mittel": 82.9
   }
  ]
 }
