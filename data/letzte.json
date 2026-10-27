@@ -1,1002 +1,1002 @@
 [
  {
-  "nr": 15505,
-  "ende": "2026-10-26T23:04:51+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 8,
-  "punkte_blau": 30,
-  "dauer_s": 56.1,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 8
- },
- {
-  "nr": 15504,
-  "ende": "2026-10-26T23:03:44+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 15,
-  "dauer_s": 351.0,
-  "verbleibend_rot": 1,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15503,
-  "ende": "2026-10-26T22:57:42+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 15,
-  "dauer_s": 88.6,
-  "verbleibend_rot": 1,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15502,
-  "ende": "2026-10-26T22:56:02+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 8,
-  "punkte_blau": 30,
-  "dauer_s": 53.2,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 8
- },
- {
-  "nr": 15501,
-  "ende": "2026-10-26T22:54:58+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 6,
-  "punkte_blau": 30,
-  "dauer_s": 53.0,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 10
- },
- {
-  "nr": 15500,
-  "ende": "2026-10-26T22:53:54+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 8,
-  "punkte_blau": 30,
-  "dauer_s": 56.1,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 8
- },
- {
-  "nr": 15499,
-  "ende": "2026-10-26T22:52:47+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 14,
-  "punkte_blau": 30,
-  "dauer_s": 85.0,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 2
- },
- {
-  "nr": 15498,
-  "ende": "2026-10-26T22:51:11+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 15,
-  "dauer_s": 160.7,
-  "verbleibend_rot": 1,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15497,
-  "ende": "2026-10-26T22:48:20+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 11,
-  "punkte_blau": 30,
-  "dauer_s": 84.8,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 5
- },
- {
-  "nr": 15496,
-  "ende": "2026-10-26T22:46:44+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 15,
-  "dauer_s": 77.6,
-  "verbleibend_rot": 1,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15495,
-  "ende": "2026-10-26T22:45:15+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 5,
-  "dauer_s": 51.4,
-  "verbleibend_rot": 11,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15494,
-  "ende": "2026-10-26T22:44:13+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 15,
-  "dauer_s": 106.8,
-  "verbleibend_rot": 1,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15493,
-  "ende": "2026-10-26T22:42:15+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 15,
-  "punkte_blau": 30,
-  "dauer_s": 140.9,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 1
- },
- {
-  "nr": 15492,
-  "ende": "2026-10-26T22:39:44+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 2,
-  "dauer_s": 48.9,
-  "verbleibend_rot": 10,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15491,
-  "ende": "2026-10-26T22:38:44+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 10,
-  "punkte_blau": 30,
-  "dauer_s": 63.8,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 6
- },
- {
-  "nr": 15490,
-  "ende": "2026-10-26T22:37:29+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 0,
-  "dauer_s": 46.8,
-  "verbleibend_rot": 12,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15489,
-  "ende": "2026-10-26T22:36:31+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 14,
-  "dauer_s": 76.2,
-  "verbleibend_rot": 2,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15488,
-  "ende": "2026-10-26T22:35:04+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 6,
-  "punkte_blau": 30,
-  "dauer_s": 52.3,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 10
- },
- {
-  "nr": 15487,
-  "ende": "2026-10-26T22:34:01+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 12,
-  "dauer_s": 63.4,
-  "verbleibend_rot": 4,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15486,
-  "ende": "2026-10-26T22:32:47+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 12,
-  "dauer_s": 60.5,
-  "verbleibend_rot": 4,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15485,
-  "ende": "2026-10-26T22:31:35+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 13,
-  "dauer_s": 70.7,
-  "verbleibend_rot": 3,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15484,
-  "ende": "2026-10-26T22:30:14+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 8,
-  "dauer_s": 68.0,
-  "verbleibend_rot": 8,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15483,
-  "ende": "2026-10-26T22:28:55+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 9,
-  "dauer_s": 54.7,
-  "verbleibend_rot": 7,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15482,
-  "ende": "2026-10-26T22:27:49+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 21,
-  "punkte_blau": 30,
-  "dauer_s": 65.6,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 5
- },
- {
-  "nr": 15481,
-  "ende": "2026-10-26T22:26:33+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 7,
-  "punkte_blau": 30,
-  "dauer_s": 82.5,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 9
- },
- {
-  "nr": 15480,
-  "ende": "2026-10-26T22:24:59+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 10,
-  "punkte_blau": 30,
-  "dauer_s": 59.5,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 6
- },
- {
-  "nr": 15479,
-  "ende": "2026-10-26T22:23:49+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 0,
-  "dauer_s": 45.9,
-  "verbleibend_rot": 12,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15478,
-  "ende": "2026-10-26T22:22:52+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 10,
-  "punkte_blau": 30,
-  "dauer_s": 67.6,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 6
- },
- {
-  "nr": 15477,
-  "ende": "2026-10-26T22:21:34+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 0,
-  "dauer_s": 45.0,
-  "verbleibend_rot": 12,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15476,
-  "ende": "2026-10-26T22:20:38+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 10,
-  "dauer_s": 60.5,
-  "verbleibend_rot": 6,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15475,
-  "ende": "2026-10-26T22:19:26+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 6,
-  "dauer_s": 51.0,
-  "verbleibend_rot": 10,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15474,
-  "ende": "2026-10-26T22:18:24+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 0,
-  "punkte_blau": 30,
-  "dauer_s": 47.3,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 12
- },
- {
-  "nr": 15473,
-  "ende": "2026-10-26T22:17:26+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 15,
-  "punkte_blau": 30,
-  "dauer_s": 321.5,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 1
- },
- {
-  "nr": 15472,
-  "ende": "2026-10-26T22:11:54+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 13,
-  "punkte_blau": 30,
-  "dauer_s": 210.5,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 3
- },
- {
-  "nr": 15471,
-  "ende": "2026-10-26T22:08:12+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 0,
-  "punkte_blau": 30,
-  "dauer_s": 51.6,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 12
- },
- {
-  "nr": 15470,
-  "ende": "2026-10-26T22:07:10+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 15,
-  "dauer_s": 205.3,
-  "verbleibend_rot": 1,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15469,
-  "ende": "2026-10-26T22:03:34+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 10,
-  "punkte_blau": 30,
-  "dauer_s": 55.9,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 6
- },
- {
-  "nr": 15468,
-  "ende": "2026-10-26T22:02:27+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 6,
-  "dauer_s": 50.1,
-  "verbleibend_rot": 10,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15467,
-  "ende": "2026-10-26T22:01:26+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 10,
-  "punkte_blau": 30,
-  "dauer_s": 66.0,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 6
- },
- {
-  "nr": 15466,
-  "ende": "2026-10-26T22:00:09+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 2,
-  "punkte_blau": 30,
-  "dauer_s": 51.0,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 10
- },
- {
-  "nr": 15465,
-  "ende": "2026-10-26T21:59:07+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 8,
-  "dauer_s": 54.9,
-  "verbleibend_rot": 8,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15464,
-  "ende": "2026-10-26T21:58:01+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 11,
-  "dauer_s": 66.3,
-  "verbleibend_rot": 5,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15463,
-  "ende": "2026-10-26T21:56:44+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 15,
-  "punkte_blau": 30,
-  "dauer_s": 235.7,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 1
- },
- {
-  "nr": 15462,
-  "ende": "2026-10-26T21:52:37+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 13,
-  "dauer_s": 140.2,
-  "verbleibend_rot": 3,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15461,
-  "ende": "2026-10-26T21:50:06+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 0,
-  "dauer_s": 57.7,
-  "verbleibend_rot": 12,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15460,
-  "ende": "2026-10-26T21:48:58+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 15,
-  "punkte_blau": 30,
-  "dauer_s": 192.1,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 1
- },
- {
-  "nr": 15459,
-  "ende": "2026-10-26T21:45:35+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 7,
-  "punkte_blau": 30,
-  "dauer_s": 54.0,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 9
- },
- {
-  "nr": 15458,
-  "ende": "2026-10-26T21:44:30+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 12,
-  "dauer_s": 66.4,
-  "verbleibend_rot": 4,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15457,
-  "ende": "2026-10-26T21:43:12+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 11,
-  "punkte_blau": 30,
-  "dauer_s": 63.6,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 5
- },
- {
-  "nr": 15456,
-  "ende": "2026-10-26T21:41:58+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 15,
-  "dauer_s": 200.3,
-  "verbleibend_rot": 1,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15455,
-  "ende": "2026-10-26T21:38:27+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 14,
-  "dauer_s": 296.4,
-  "verbleibend_rot": 2,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15454,
-  "ende": "2026-10-26T21:33:19+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 7,
-  "punkte_blau": 30,
-  "dauer_s": 56.6,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 9
- },
- {
-  "nr": 15453,
-  "ende": "2026-10-26T21:32:12+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 5,
-  "dauer_s": 55.3,
-  "verbleibend_rot": 11,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15452,
-  "ende": "2026-10-26T21:31:06+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 10,
-  "dauer_s": 69.1,
-  "verbleibend_rot": 6,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15451,
-  "ende": "2026-10-26T21:29:46+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 15,
-  "punkte_blau": 30,
-  "dauer_s": 357.2,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 1
- },
- {
-  "nr": 15450,
-  "ende": "2026-10-26T21:23:38+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 5,
-  "dauer_s": 56.0,
-  "verbleibend_rot": 11,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15449,
-  "ende": "2026-10-26T21:22:31+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 9,
-  "dauer_s": 58.8,
-  "verbleibend_rot": 7,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15448,
-  "ende": "2026-10-26T21:21:21+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 15,
-  "dauer_s": 157.4,
-  "verbleibend_rot": 1,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15447,
-  "ende": "2026-10-26T21:18:33+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 8,
-  "dauer_s": 60.9,
-  "verbleibend_rot": 8,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15446,
-  "ende": "2026-10-26T21:17:21+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 10,
-  "dauer_s": 61.1,
-  "verbleibend_rot": 6,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15445,
-  "ende": "2026-10-26T21:16:09+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 15,
-  "punkte_blau": 30,
-  "dauer_s": 335.9,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 1
- },
- {
-  "nr": 15444,
-  "ende": "2026-10-26T21:10:22+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 12,
-  "punkte_blau": 30,
-  "dauer_s": 68.7,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 4
- },
- {
-  "nr": 15443,
-  "ende": "2026-10-26T21:09:02+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 8,
-  "punkte_blau": 30,
-  "dauer_s": 65.0,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 8
- },
- {
-  "nr": 15442,
-  "ende": "2026-10-26T21:07:46+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 11,
-  "punkte_blau": 30,
-  "dauer_s": 69.5,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 5
- },
- {
-  "nr": 15441,
-  "ende": "2026-10-26T21:06:26+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 9,
-  "dauer_s": 70.6,
-  "verbleibend_rot": 7,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15440,
-  "ende": "2026-10-26T21:05:04+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 7,
-  "punkte_blau": 30,
-  "dauer_s": 51.4,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 9
- },
- {
-  "nr": 15439,
-  "ende": "2026-10-26T21:04:02+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 10,
-  "punkte_blau": 30,
-  "dauer_s": 124.3,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 6
- },
- {
-  "nr": 15438,
-  "ende": "2026-10-26T21:01:47+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 13,
-  "dauer_s": 207.1,
-  "verbleibend_rot": 3,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15437,
-  "ende": "2026-10-26T20:58:09+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 15,
-  "punkte_blau": 30,
-  "dauer_s": 179.4,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 1
- },
- {
-  "nr": 15436,
-  "ende": "2026-10-26T20:54:58+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 15,
-  "punkte_blau": 30,
-  "dauer_s": 80.3,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 1
- },
- {
-  "nr": 15435,
-  "ende": "2026-10-26T20:53:27+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 18,
-  "dauer_s": 64.7,
-  "verbleibend_rot": 8,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15434,
-  "ende": "2026-10-26T20:52:12+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 15,
-  "dauer_s": 395.5,
-  "verbleibend_rot": 1,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15433,
-  "ende": "2026-10-26T20:45:25+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 7,
-  "punkte_blau": 30,
-  "dauer_s": 56.3,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 9
- },
- {
-  "nr": 15432,
-  "ende": "2026-10-26T20:44:18+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 9,
-  "dauer_s": 61.6,
-  "verbleibend_rot": 7,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15431,
-  "ende": "2026-10-26T20:43:05+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 8,
-  "dauer_s": 60.4,
-  "verbleibend_rot": 8,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15430,
-  "ende": "2026-10-26T20:41:54+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 15,
-  "dauer_s": 229.7,
-  "verbleibend_rot": 1,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15429,
-  "ende": "2026-10-26T20:37:53+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 8,
-  "dauer_s": 62.0,
-  "verbleibend_rot": 8,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15428,
-  "ende": "2026-10-26T20:36:41+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 14,
-  "dauer_s": 72.1,
-  "verbleibend_rot": 2,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15427,
-  "ende": "2026-10-26T20:35:18+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 9,
-  "punkte_blau": 30,
-  "dauer_s": 58.9,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 7
- },
- {
-  "nr": 15426,
-  "ende": "2026-10-26T20:34:08+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 15,
-  "dauer_s": 163.5,
-  "verbleibend_rot": 1,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15425,
-  "ende": "2026-10-26T20:31:13+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 15,
-  "dauer_s": 122.2,
-  "verbleibend_rot": 1,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15424,
-  "ende": "2026-10-26T20:29:00+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 12,
-  "punkte_blau": 30,
-  "dauer_s": 58.1,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 4
- },
- {
-  "nr": 15423,
-  "ende": "2026-10-26T20:27:51+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 0,
-  "punkte_blau": 30,
-  "dauer_s": 41.6,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 12
- },
- {
-  "nr": 15422,
-  "ende": "2026-10-26T20:26:59+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 5,
-  "dauer_s": 51.7,
-  "verbleibend_rot": 11,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15421,
-  "ende": "2026-10-26T20:25:56+00:00",
+  "nr": 16264,
+  "ende": "2026-10-27T23:03:05+00:00",
   "sieger": "Rot",
   "punkte_rot": 30,
   "punkte_blau": 7,
-  "dauer_s": 55.1,
+  "dauer_s": 55.9,
   "verbleibend_rot": 9,
   "verbleibend_blau": 0
  },
  {
-  "nr": 15420,
-  "ende": "2026-10-26T20:24:50+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 7,
-  "punkte_blau": 30,
-  "dauer_s": 54.6,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 9
- },
- {
-  "nr": 15419,
-  "ende": "2026-10-26T20:23:45+00:00",
+  "nr": 16263,
+  "ende": "2026-10-27T23:01:59+00:00",
   "sieger": "Blau",
   "punkte_rot": 5,
   "punkte_blau": 30,
-  "dauer_s": 53.4,
+  "dauer_s": 49.7,
   "verbleibend_rot": 0,
   "verbleibend_blau": 11
  },
  {
-  "nr": 15418,
-  "ende": "2026-10-26T20:22:40+00:00",
+  "nr": 16262,
+  "ende": "2026-10-27T23:00:58+00:00",
   "sieger": "Blau",
-  "punkte_rot": 6,
+  "punkte_rot": 15,
   "punkte_blau": 30,
-  "dauer_s": 57.8,
+  "dauer_s": 80.2,
   "verbleibend_rot": 0,
-  "verbleibend_blau": 10
+  "verbleibend_blau": 1
  },
  {
-  "nr": 15417,
-  "ende": "2026-10-26T20:21:31+00:00",
+  "nr": 16261,
+  "ende": "2026-10-27T22:59:27+00:00",
   "sieger": "Rot",
   "punkte_rot": 30,
-  "punkte_blau": 15,
-  "dauer_s": 75.2,
-  "verbleibend_rot": 1,
+  "punkte_blau": 10,
+  "dauer_s": 61.6,
+  "verbleibend_rot": 6,
   "verbleibend_blau": 0
  },
  {
-  "nr": 15416,
-  "ende": "2026-10-26T20:20:05+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 17,
-  "punkte_blau": 30,
-  "dauer_s": 60.6,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 9
- },
- {
-  "nr": 15415,
-  "ende": "2026-10-26T20:18:54+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 7,
-  "punkte_blau": 30,
-  "dauer_s": 61.7,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 9
- },
- {
-  "nr": 15414,
-  "ende": "2026-10-26T20:17:41+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 6,
-  "punkte_blau": 30,
-  "dauer_s": 54.1,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 10
- },
- {
-  "nr": 15413,
-  "ende": "2026-10-26T20:16:36+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 6,
-  "dauer_s": 55.7,
-  "verbleibend_rot": 10,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15412,
-  "ende": "2026-10-26T20:15:30+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 10,
-  "punkte_blau": 30,
-  "dauer_s": 58.7,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 6
- },
- {
-  "nr": 15411,
-  "ende": "2026-10-26T20:14:20+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 6,
-  "punkte_blau": 30,
-  "dauer_s": 68.2,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 10
- },
- {
-  "nr": 15410,
-  "ende": "2026-10-26T20:13:01+00:00",
-  "sieger": "Blau",
-  "punkte_rot": 0,
-  "punkte_blau": 30,
-  "dauer_s": 48.8,
-  "verbleibend_rot": 0,
-  "verbleibend_blau": 12
- },
- {
-  "nr": 15409,
-  "ende": "2026-10-26T20:12:01+00:00",
-  "sieger": "Rot",
-  "punkte_rot": 30,
-  "punkte_blau": 7,
-  "dauer_s": 60.3,
-  "verbleibend_rot": 9,
-  "verbleibend_blau": 0
- },
- {
-  "nr": 15408,
-  "ende": "2026-10-26T20:10:50+00:00",
+  "nr": 16260,
+  "ende": "2026-10-27T22:58:14+00:00",
   "sieger": "Blau",
   "punkte_rot": 9,
   "punkte_blau": 30,
-  "dauer_s": 56.0,
+  "dauer_s": 60.1,
   "verbleibend_rot": 0,
   "verbleibend_blau": 7
  },
  {
-  "nr": 15407,
-  "ende": "2026-10-26T20:09:43+00:00",
+  "nr": 16259,
+  "ende": "2026-10-27T22:57:03+00:00",
   "sieger": "Blau",
-  "punkte_rot": 2,
+  "punkte_rot": 9,
   "punkte_blau": 30,
-  "dauer_s": 44.6,
+  "dauer_s": 58.4,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 7
+ },
+ {
+  "nr": 16258,
+  "ende": "2026-10-27T22:55:54+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 11,
+  "dauer_s": 66.5,
+  "verbleibend_rot": 5,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16257,
+  "ende": "2026-10-27T22:54:36+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 6,
+  "punkte_blau": 30,
+  "dauer_s": 54.3,
   "verbleibend_rot": 0,
   "verbleibend_blau": 10
  },
  {
-  "nr": 15406,
-  "ende": "2026-10-26T20:08:48+00:00",
+  "nr": 16256,
+  "ende": "2026-10-27T22:53:31+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 10,
+  "dauer_s": 59.6,
+  "verbleibend_rot": 6,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16255,
+  "ende": "2026-10-27T22:52:21+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 15,
+  "dauer_s": 249.1,
+  "verbleibend_rot": 1,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16254,
+  "ende": "2026-10-27T22:48:01+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 0,
+  "punkte_blau": 30,
+  "dauer_s": 49.2,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 12
+ },
+ {
+  "nr": 16253,
+  "ende": "2026-10-27T22:47:00+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 11,
+  "dauer_s": 65.0,
+  "verbleibend_rot": 5,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16252,
+  "ende": "2026-10-27T22:45:44+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 6,
+  "punkte_blau": 30,
+  "dauer_s": 52.4,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 10
+ },
+ {
+  "nr": 16251,
+  "ende": "2026-10-27T22:44:41+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 0,
+  "dauer_s": 46.6,
+  "verbleibend_rot": 12,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16250,
+  "ende": "2026-10-27T22:43:43+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 0,
+  "punkte_blau": 30,
+  "dauer_s": 50.4,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 12
+ },
+ {
+  "nr": 16249,
+  "ende": "2026-10-27T22:42:42+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 10,
+  "dauer_s": 69.6,
+  "verbleibend_rot": 6,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16248,
+  "ende": "2026-10-27T22:41:22+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 1,
+  "dauer_s": 52.3,
+  "verbleibend_rot": 11,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16247,
+  "ende": "2026-10-27T22:40:18+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 7,
+  "punkte_blau": 30,
+  "dauer_s": 64.5,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 5
+ },
+ {
+  "nr": 16246,
+  "ende": "2026-10-27T22:39:03+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 7,
+  "dauer_s": 57.1,
+  "verbleibend_rot": 9,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16245,
+  "ende": "2026-10-27T22:37:55+00:00",
   "sieger": "Rot",
   "punkte_rot": 30,
   "punkte_blau": 12,
-  "dauer_s": 61.9,
+  "dauer_s": 67.6,
   "verbleibend_rot": 4,
   "verbleibend_blau": 0
+ },
+ {
+  "nr": 16244,
+  "ende": "2026-10-27T22:36:36+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 9,
+  "dauer_s": 66.1,
+  "verbleibend_rot": 7,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16243,
+  "ende": "2026-10-27T22:35:19+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 7,
+  "punkte_blau": 30,
+  "dauer_s": 67.3,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 9
+ },
+ {
+  "nr": 16242,
+  "ende": "2026-10-27T22:34:01+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 15,
+  "dauer_s": 106.0,
+  "verbleibend_rot": 1,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16241,
+  "ende": "2026-10-27T22:32:04+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 15,
+  "dauer_s": 256.7,
+  "verbleibend_rot": 1,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16240,
+  "ende": "2026-10-27T22:27:36+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 11,
+  "punkte_blau": 30,
+  "dauer_s": 164.4,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 5
+ },
+ {
+  "nr": 16239,
+  "ende": "2026-10-27T22:24:41+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 0,
+  "punkte_blau": 30,
+  "dauer_s": 46.1,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 12
+ },
+ {
+  "nr": 16238,
+  "ende": "2026-10-27T22:23:44+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 20,
+  "dauer_s": 68.8,
+  "verbleibend_rot": 6,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16237,
+  "ende": "2026-10-27T22:22:24+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 12,
+  "punkte_blau": 30,
+  "dauer_s": 68.6,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 4
+ },
+ {
+  "nr": 16236,
+  "ende": "2026-10-27T22:21:04+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 11,
+  "punkte_blau": 30,
+  "dauer_s": 65.0,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 5
+ },
+ {
+  "nr": 16235,
+  "ende": "2026-10-27T22:19:49+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 1,
+  "dauer_s": 52.9,
+  "verbleibend_rot": 11,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16234,
+  "ende": "2026-10-27T22:18:45+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 10,
+  "punkte_blau": 30,
+  "dauer_s": 67.3,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 6
+ },
+ {
+  "nr": 16233,
+  "ende": "2026-10-27T22:17:27+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 8,
+  "dauer_s": 57.5,
+  "verbleibend_rot": 8,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16232,
+  "ende": "2026-10-27T22:16:18+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 13,
+  "dauer_s": 143.8,
+  "verbleibend_rot": 3,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16231,
+  "ende": "2026-10-27T22:13:43+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 1,
+  "dauer_s": 54.6,
+  "verbleibend_rot": 11,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16230,
+  "ende": "2026-10-27T22:12:38+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 8,
+  "dauer_s": 57.3,
+  "verbleibend_rot": 8,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16229,
+  "ende": "2026-10-27T22:11:30+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 12,
+  "punkte_blau": 30,
+  "dauer_s": 56.7,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 4
+ },
+ {
+  "nr": 16228,
+  "ende": "2026-10-27T22:10:22+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 1,
+  "dauer_s": 51.9,
+  "verbleibend_rot": 11,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16227,
+  "ende": "2026-10-27T22:09:19+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 13,
+  "punkte_blau": 30,
+  "dauer_s": 68.7,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 3
+ },
+ {
+  "nr": 16226,
+  "ende": "2026-10-27T22:07:59+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 13,
+  "dauer_s": 81.9,
+  "verbleibend_rot": 3,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16225,
+  "ende": "2026-10-27T22:06:27+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 13,
+  "punkte_blau": 30,
+  "dauer_s": 66.1,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 3
+ },
+ {
+  "nr": 16224,
+  "ende": "2026-10-27T22:05:10+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 14,
+  "dauer_s": 81.6,
+  "verbleibend_rot": 2,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16223,
+  "ende": "2026-10-27T22:03:37+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 11,
+  "dauer_s": 62.2,
+  "verbleibend_rot": 5,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16222,
+  "ende": "2026-10-27T22:02:24+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 15,
+  "dauer_s": 238.4,
+  "verbleibend_rot": 1,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16221,
+  "ende": "2026-10-27T21:58:15+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 11,
+  "dauer_s": 86.5,
+  "verbleibend_rot": 5,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16220,
+  "ende": "2026-10-27T21:56:37+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 8,
+  "dauer_s": 57.5,
+  "verbleibend_rot": 8,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16219,
+  "ende": "2026-10-27T21:55:29+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 11,
+  "dauer_s": 67.7,
+  "verbleibend_rot": 5,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16218,
+  "ende": "2026-10-27T21:54:10+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 7,
+  "dauer_s": 61.0,
+  "verbleibend_rot": 9,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16217,
+  "ende": "2026-10-27T21:52:58+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 15,
+  "dauer_s": 75.4,
+  "verbleibend_rot": 1,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16216,
+  "ende": "2026-10-27T21:51:32+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 15,
+  "dauer_s": 329.3,
+  "verbleibend_rot": 1,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16215,
+  "ende": "2026-10-27T21:45:51+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 9,
+  "punkte_blau": 30,
+  "dauer_s": 61.9,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 7
+ },
+ {
+  "nr": 16214,
+  "ende": "2026-10-27T21:44:39+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 15,
+  "dauer_s": 277.3,
+  "verbleibend_rot": 1,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16213,
+  "ende": "2026-10-27T21:39:50+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 8,
+  "dauer_s": 57.2,
+  "verbleibend_rot": 8,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16212,
+  "ende": "2026-10-27T21:38:42+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 15,
+  "dauer_s": 89.4,
+  "verbleibend_rot": 1,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16211,
+  "ende": "2026-10-27T21:37:02+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 11,
+  "dauer_s": 62.3,
+  "verbleibend_rot": 5,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16210,
+  "ende": "2026-10-27T21:35:49+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 9,
+  "punkte_blau": 30,
+  "dauer_s": 65.2,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 7
+ },
+ {
+  "nr": 16209,
+  "ende": "2026-10-27T21:34:33+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 15,
+  "dauer_s": 193.0,
+  "verbleibend_rot": 1,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16208,
+  "ende": "2026-10-27T21:31:09+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 6,
+  "punkte_blau": 30,
+  "dauer_s": 52.5,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 10
+ },
+ {
+  "nr": 16207,
+  "ende": "2026-10-27T21:30:05+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 15,
+  "punkte_blau": 30,
+  "dauer_s": 73.0,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 1
+ },
+ {
+  "nr": 16206,
+  "ende": "2026-10-27T21:28:41+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 10,
+  "dauer_s": 79.8,
+  "verbleibend_rot": 6,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16205,
+  "ende": "2026-10-27T21:27:11+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 0,
+  "punkte_blau": 30,
+  "dauer_s": 43.0,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 12
+ },
+ {
+  "nr": 16204,
+  "ende": "2026-10-27T21:26:17+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 0,
+  "dauer_s": 52.1,
+  "verbleibend_rot": 12,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16203,
+  "ende": "2026-10-27T21:25:14+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 6,
+  "punkte_blau": 30,
+  "dauer_s": 56.5,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 10
+ },
+ {
+  "nr": 16202,
+  "ende": "2026-10-27T21:24:06+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 11,
+  "punkte_blau": 30,
+  "dauer_s": 58.7,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 5
+ },
+ {
+  "nr": 16201,
+  "ende": "2026-10-27T21:22:56+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 5,
+  "punkte_blau": 30,
+  "dauer_s": 47.3,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 11
+ },
+ {
+  "nr": 16200,
+  "ende": "2026-10-27T21:21:58+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 8,
+  "dauer_s": 57.2,
+  "verbleibend_rot": 8,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16199,
+  "ende": "2026-10-27T21:20:50+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 13,
+  "dauer_s": 139.6,
+  "verbleibend_rot": 3,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16198,
+  "ende": "2026-10-27T21:18:20+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 15,
+  "punkte_blau": 30,
+  "dauer_s": 135.3,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 1
+ },
+ {
+  "nr": 16197,
+  "ende": "2026-10-27T21:15:53+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 9,
+  "punkte_blau": 30,
+  "dauer_s": 60.2,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 7
+ },
+ {
+  "nr": 16196,
+  "ende": "2026-10-27T21:14:42+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 15,
+  "punkte_blau": 30,
+  "dauer_s": 225.5,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 1
+ },
+ {
+  "nr": 16195,
+  "ende": "2026-10-27T21:10:46+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 0,
+  "punkte_blau": 30,
+  "dauer_s": 49.1,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 12
+ },
+ {
+  "nr": 16194,
+  "ende": "2026-10-27T21:09:46+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 15,
+  "punkte_blau": 30,
+  "dauer_s": 95.4,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 1
+ },
+ {
+  "nr": 16193,
+  "ende": "2026-10-27T21:07:59+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 15,
+  "punkte_blau": 30,
+  "dauer_s": 78.9,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 1
+ },
+ {
+  "nr": 16192,
+  "ende": "2026-10-27T21:06:30+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 15,
+  "dauer_s": 382.2,
+  "verbleibend_rot": 1,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16191,
+  "ende": "2026-10-27T20:59:56+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 5,
+  "dauer_s": 55.5,
+  "verbleibend_rot": 11,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16190,
+  "ende": "2026-10-27T20:58:50+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 12,
+  "punkte_blau": 30,
+  "dauer_s": 68.4,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 4
+ },
+ {
+  "nr": 16189,
+  "ende": "2026-10-27T20:57:31+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 14,
+  "punkte_blau": 30,
+  "dauer_s": 80.5,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 2
+ },
+ {
+  "nr": 16188,
+  "ende": "2026-10-27T20:55:59+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 15,
+  "dauer_s": 80.4,
+  "verbleibend_rot": 1,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16187,
+  "ende": "2026-10-27T20:54:28+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 15,
+  "punkte_blau": 30,
+  "dauer_s": 136.6,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 1
+ },
+ {
+  "nr": 16186,
+  "ende": "2026-10-27T20:52:00+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 13,
+  "punkte_blau": 30,
+  "dauer_s": 134.9,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 3
+ },
+ {
+  "nr": 16185,
+  "ende": "2026-10-27T20:49:35+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 13,
+  "punkte_blau": 30,
+  "dauer_s": 87.6,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 3
+ },
+ {
+  "nr": 16184,
+  "ende": "2026-10-27T20:47:56+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 8,
+  "punkte_blau": 30,
+  "dauer_s": 57.5,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 8
+ },
+ {
+  "nr": 16183,
+  "ende": "2026-10-27T20:46:48+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 15,
+  "dauer_s": 199.5,
+  "verbleibend_rot": 1,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16182,
+  "ende": "2026-10-27T20:43:17+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 8,
+  "punkte_blau": 30,
+  "dauer_s": 56.7,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 8
+ },
+ {
+  "nr": 16181,
+  "ende": "2026-10-27T20:42:10+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 0,
+  "punkte_blau": 30,
+  "dauer_s": 48.4,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 12
+ },
+ {
+  "nr": 16180,
+  "ende": "2026-10-27T20:41:10+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 7,
+  "dauer_s": 59.2,
+  "verbleibend_rot": 9,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16179,
+  "ende": "2026-10-27T20:40:00+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 14,
+  "punkte_blau": 30,
+  "dauer_s": 77.6,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 2
+ },
+ {
+  "nr": 16178,
+  "ende": "2026-10-27T20:38:32+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 8,
+  "punkte_blau": 30,
+  "dauer_s": 56.0,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 8
+ },
+ {
+  "nr": 16177,
+  "ende": "2026-10-27T20:37:25+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 10,
+  "dauer_s": 65.9,
+  "verbleibend_rot": 6,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16176,
+  "ende": "2026-10-27T20:36:08+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 9,
+  "dauer_s": 59.4,
+  "verbleibend_rot": 7,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16175,
+  "ende": "2026-10-27T20:34:57+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 16,
+  "dauer_s": 61.2,
+  "verbleibend_rot": 10,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16174,
+  "ende": "2026-10-27T20:33:45+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 9,
+  "dauer_s": 63.0,
+  "verbleibend_rot": 7,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16173,
+  "ende": "2026-10-27T20:32:31+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 5,
+  "dauer_s": 51.0,
+  "verbleibend_rot": 11,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16172,
+  "ende": "2026-10-27T20:31:29+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 12,
+  "punkte_blau": 30,
+  "dauer_s": 65.8,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 4
+ },
+ {
+  "nr": 16171,
+  "ende": "2026-10-27T20:30:13+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 0,
+  "punkte_blau": 30,
+  "dauer_s": 50.1,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 12
+ },
+ {
+  "nr": 16170,
+  "ende": "2026-10-27T20:29:12+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 7,
+  "punkte_blau": 30,
+  "dauer_s": 55.4,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 9
+ },
+ {
+  "nr": 16169,
+  "ende": "2026-10-27T20:28:05+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 0,
+  "punkte_blau": 30,
+  "dauer_s": 48.2,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 12
+ },
+ {
+  "nr": 16168,
+  "ende": "2026-10-27T20:27:06+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 15,
+  "dauer_s": 398.1,
+  "verbleibend_rot": 1,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16167,
+  "ende": "2026-10-27T20:20:17+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 15,
+  "dauer_s": 215.9,
+  "verbleibend_rot": 1,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16166,
+  "ende": "2026-10-27T20:16:30+00:00",
+  "sieger": "Rot",
+  "punkte_rot": 30,
+  "punkte_blau": 0,
+  "dauer_s": 47.9,
+  "verbleibend_rot": 12,
+  "verbleibend_blau": 0
+ },
+ {
+  "nr": 16165,
+  "ende": "2026-10-27T20:15:31+00:00",
+  "sieger": "Blau",
+  "punkte_rot": 15,
+  "punkte_blau": 30,
+  "dauer_s": 75.2,
+  "verbleibend_rot": 0,
+  "verbleibend_blau": 1
  }
 ]
